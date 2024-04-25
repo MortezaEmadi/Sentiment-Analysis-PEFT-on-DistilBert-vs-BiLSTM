@@ -12,7 +12,7 @@ This project leverages advanced NLM techniques to analyze and generate text base
 
 ## Model Access
 
-The tuned LoRA model, which shows significant improvements in precision, is available for public use and further development on my [Hugging Face profile](https://huggingface.co/your_username/your_model).
+The tuned LoRA model, which shows significant improvements in precision, is available for public use and further development on my [Hugging Face profile](https://huggingface.co/Mortezaem/Sentiment_Analysis_PEFT_on_DistilBert).
 
 ## Project Details
 
