@@ -21,7 +21,7 @@ The tuned LoRA model, which shows significant improvements in precision, is avai
 
 ## Technical Approach
 
-1. **Sentiment Analysis:** Fine-tuning of the DistilBERT model using PEFT with a LoRA approach, increasing model precision from 0.47 to 0.78 in just eight epochs. (Due to time and computational limits for the project, <br>I used only 10% of the dataset volume and incorporated a data augmentation.</br> Despite minimal training, the model's accuracy improved by 59.5% in comparison with non-fine tuned DistilBert LLM!)
+1. **Sentiment Analysis:** Fine-tuning of the DistilBERT model using PEFT with a LoRA approach, increasing model precision from 0.47 to 0.78 in just eight epochs. (Due to time and computational limits for the project, **I used only 10% of the dataset volume and incorporated a data augmentation.** Despite minimal training, the model's accuracy improved by 59.5% in comparison with non-fine tuned DistilBert LLM!)
 2. **Text Generation:** Development of a text generation module using RNN-GRU architecture along with N-gram modeling, balancing complexity and performance effectively.
 
 ## Evaluation and Enhancement
